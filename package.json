@@ -1,7 +1,7 @@
 {
   "name": "amanda",
   "description": "JSON Schema validator",
-  "version": "0.6.0",
+  "version": "1.0.0",
   "author": "František Hába <frantisek@apiary.io> (https://github.com/Baggz)",
   "contributors": [
     {
