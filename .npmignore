@@ -2,3 +2,11 @@
 .DS_Store
 .idea
 profile
+/docs
+/src
+/tests
+/tools
+/.jshintignore
+/Hintfile
+/.travis.yml
+
