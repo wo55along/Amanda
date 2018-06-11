@@ -44,6 +44,5 @@
   "scripts": {
     "test": "mocha --ui tdd --reporter spec ./tests/json/attributes/required/*.js ./tests/json/attributes/format/*.js ./tests/json/attributes/type/*.js ./tests/json/attributes/*.js ./tests/json/*.js"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }

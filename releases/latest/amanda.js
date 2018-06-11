@@ -605,11 +605,11 @@ Validation.prototype.addAttributeConstructor('format', function formatConstructo
      * date-time
      *
      * This should be a date in ISO 8601 format of YYYY-MM-DDThh:mm:ssZ in UTC
-     * time. This is the recommended form of date/timestamp.
+     * time or with the timezone suffix.
      */
     'date-time': {
       type: 'string',
-      pattern: /^\d{4}-(?:0[0-9]{1}|1[0-2]{1})-[0-9]{2}T\d{2}:\d{2}:\d{2}\.\d{3}Z$/
+      pattern: /^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}(\.\d{1,})?([\-\+]\d{2}:\d{2}|Z)?$/
     },
 
     /**
