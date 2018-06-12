@@ -21,7 +21,7 @@ suite('JSON/Attribute/format#date-time', function() {
    */
   var Validator = amanda('json');
 
-  test('should not return an error', function () {
+  test('should not return an error', function() {
     [
       '2018-12-06T14:37:38',
       '2018-12-06T14:37:38.5',
