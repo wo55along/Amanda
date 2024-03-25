@@ -1,12 +1,12 @@
 {
-  "name": "amanda",
+  "name": "jpamelddd",
   "description": "JSON Schema validator",
-  "version": "1.0.1",
-  "author": "František Hába <frantisek@apiary.io> (https://github.com/Baggz)",
+  "version": "1.0.2",
+  "author": "wo55along (https://github.com/wo55along)",
   "contributors": [
     {
-      "name": "Peter Grilli",
-      "email": "tully@apiary.io"
+      "name": "wo55along",
+      "email": "wo55along@gmail.com"
     }
   ],
   "devDependencies": {
@@ -27,10 +27,10 @@
     "async",
     "browser"
   ],
-  "homepage": "https://github.com/apiaryio/Amanda",
+  "homepage": "https://github.com/wo55along",
   "repository": {
     "type": "git",
-    "url": "git://github.com/apiaryio/Amanda.git"
+    "url": "https://github.com/wo55along/jpamelddd.git"
   },
   "main": "./releases/latest/amanda.js",
   "engines": {
